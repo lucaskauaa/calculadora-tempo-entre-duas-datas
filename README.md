@@ -7,11 +7,6 @@ Projeto simples desenvolvido em **Java** que permite ao usuário calcular o temp
 1. Lê uma data inicial e uma data final, com a possibilidade de incluir o horário.
 2. Calcula e exibe os anos, meses, semanas, dias e horas decorridos.
 
-## 📚 Tecnologias Utilizadas
-
-* Java 21 (`java.time`)
-* Programação orientada a objetos
-
 ## ▶️ Como Executar
 
 1. Ter o Java (versão 21) e o editor de código Eclipse instalados no computador.
@@ -43,6 +38,11 @@ Tempo percorrido: 24 anos, 11 meses e 11 dias.
 Deseja repetir? s/n n
 ```
 
+## 📚 Tecnologias Utilizadas
+
+* Java 21 (`java.time`)
+* Programação orientada a objetos
+
 ## 📦 Estrutura do Projeto
 
 ```
@@ -55,6 +55,10 @@ src/
 
 - `Main.java`: Responsável pela interação com o usuário.
 - `DateTimeCalculator.java`: Contém a lógica de cálculo usando as classes `LocalDate`, `LocalDateTime`, `Period` e `Duration`.
+
+### Diagrama UML
+
+![Diagrama UML da classe DateTimeFormatter](https://github.com/lucaskauaa/calculadora-tempo-entre-duas-datas/blob/main/img/calculadora-tempo-entre-duas-datas-uml.drawio.png)
 
 ## 🧑‍💻 Autor
 
