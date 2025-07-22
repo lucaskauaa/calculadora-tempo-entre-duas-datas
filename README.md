@@ -5,11 +5,11 @@ Projeto simples desenvolvido em **Java** que permite ao usuário calcular o temp
 ## ✅ Funcionalidades
 
 1. Lê uma data inicial e uma data final, com a possibilidade de incluir o horário.
-2. Calcula e exibe os anos, meses, semanas, dias e horas decorridos.
+2. Calcula e exibe os **anos**, **meses**, **semanas**, **dias** e **horas** decorridos.
 
 ## ▶️ Como Executar
 
-1. Ter o Java (versão 21) e o editor de código Eclipse instalados no computador.
+1. Ter o **Java** (*versão 21*) e o editor de código **Eclipse** instalados no computador.
 2. Baixar o arquivo `.zip` ou clonar o repositório: https://github.com/lucaskauaa/calculadora-tempo-entre-duas-datas.git (é necessário ter o Git instalado).
 3. Abrir a pasta do projeto no Eclipse → acessar o arquivo `src/program/Main.java` → clicar com o botão direito → **Run As** → **Java Application**.
 
@@ -62,4 +62,4 @@ src/
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por *Lucas Kauã*.
+Desenvolvido por **Lucas Kauã**.
